@@ -1,10 +1,10 @@
-# keep_alive
+# hoster
 
-keep alive is a python module that hosts code  
+hoster is a python module that hosts code  
 Usage:  
 Add this to the end of your code:
 
 ```Python
-import keep_alive
-keep_alive.start(ip=<your ip>, port=<4 digits>)
+import hoster
+hoster.start(ip=<your ip>, port=<4 digits>)
 ```
